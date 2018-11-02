@@ -8,3 +8,8 @@
 ## Enlaces de PlusMaster / PlusIW6
 - [PlusMaster's Website](http://plusmaster.ir/) - Sitio web oficial de PlusMaster.
 - [PlusMaster's Discord](http://discord.gg/w48zeR2) - Discord oficial de PlusMaster.
+
+## Enlaces importantes de CoD: G
+- [Discusiones](https://steamcommunity.com/app/209160/discussions/)
+- [Guías](https://steamcommunity.com/app/209160/guides/)
+- [PCGamingWiki](https://pcgamingwiki.com/wiki/Call_of_Duty:_Ghosts)
