@@ -3,7 +3,9 @@
 - Este Repositorio no contiene ningún código de PlusIW6, pero proporciona soporte y ayuda a los usuarios.
 
 ## Aviso
-- Este repositorio y su wiki se encuentran **EN CONSTRUCCIÓN**
+- Este Repositorio y su [Wiki](../wiki) se encuentran **EN CONSTRUCCIÓN**
+- **PlusIW6** se encuentra en **Alfa**, así que podrás encontrar muchos fallos. Además de que todo lo que leas aquí, puede quedar obsoleto muy rápido.
+  - En dicho caso, te recomiendo visitar su **Discord** para estar atento a las últimas actualizaciones y todo. :P
 
 ## Enlaces de PlusMaster / PlusIW6
 - [PlusMaster's Website](http://plusmaster.ir/) - Sitio web oficial de PlusMaster.
