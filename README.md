@@ -7,7 +7,8 @@
   - En dicho caso, te recomiendo visitar su **Discord** para estar atento a las últimas actualizaciones y todo. :P
 
 ## Enlaces de PlusMaster / PlusIW6
-- [PlusMaster's Website](http://plusmaster.ir/) - Sitio web oficial de PlusMaster.
+- [PlusMaster's Website](http://www.plusmaster.pro/) - Sitio web oficial de PlusMaster.
+- [PlusMaster's Forum](http://www.plusmaster.pro/forum/) - Foro oficial de PlusMaster.
 - [PlusMaster's Discord](http://discord.gg/w48zeR2) - Discord oficial de PlusMaster.
 - [PlusIW6's Wiki](https://github.com/SoyRA/PlusIW6/wiki) - Wiki no oficial (en español) de PlusIW6. Donde encontrarás casi todo lo que necesitas.
 
