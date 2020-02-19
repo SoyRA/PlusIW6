@@ -6,7 +6,7 @@
 - **PlusIW6** es el proyecto de **PlusMaster** para poder jugar al **Call of Duty: Ghosts** (con el nombre en clave (oficial) de **IW6**).
 
 ## Aviso
-- Este repositorio no contiene ningún código de PlutoT6, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
+- Este repositorio no contiene ningún código de PlusIW6, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
 - **PlusIW6** se encuentra en **Alfa**, así que podrás encontrar muchos fallos. Además de que todo lo que leas aquí, puede quedar obsoleto muy rápido.
   - En dicho caso, te recomiendo visitar su **Discord** para estar atento a las últimas actualizaciones y todo. :P
 
