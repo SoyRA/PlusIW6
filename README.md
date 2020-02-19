@@ -1,7 +1,5 @@
-<img src="Recursos/Imagenes/IW6-Ico.png" alt="IW6-Ico.png" title="Call of Duty: Ghosts" align="right" width="60" height="60"/>
-</a>
-<a href="#"><img src="Recursos/Imagenes/PM-Logo.png" alt="PM-Logo.png" title="PlusMaster" align="right" width="60" height="60"/>
-</a>
+<a href="#"><img src="Recursos/Imagenes/IW6-Ico.png" alt="IW6-Ico.png" title="Call of Duty: Ghosts" align="right" width="60" height="60"/></a>
+<a href="#"><img src="Recursos/Imagenes/PM-Logo.png" alt="PM-Logo.png" title="PlusMaster" align="right" width="60" height="60"/></a>
 
 # PlusMaster (PlusIW6)
 ![Status](https://img.shields.io/badge/Status-Online-green.svg) ![Release](https://img.shields.io/badge/Version-Alfa-red.svg) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
