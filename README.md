@@ -25,6 +25,7 @@
   - [¿Qué versiones del juego puedo usar para jugar por PlusIW6?](../../wiki/Preguntas-Frecuentes#qué-versiones-del-juego-puedo-usar-para-jugar-por-plusiw6)
   - [¿Qué idiomas soporta PlusIW6?](../../wiki/Preguntas-Frecuentes#qué-idiomas-soporta-plusiw6)
   - [¿Necesito los DLCs?](../../wiki/Preguntas-Frecuentes#necesito-los-dlcs)
+  - [¿Puedo jugar al Modo Campaña con PlusIW6?](../../wiki/Preguntas-Frecuentes#puedo-jugar-al-modo-campaña-con-plusiw6)
   - [¿Puedo tener el juego de Steam y PlusIW6 en la misma carpeta?](../../wiki/Preguntas-Frecuentes#puedo-tener-el-juego-de-steam-y-plusiw6-en-la-misma-carpeta)
   - [¿Puedo tener VAC o Game Ban por usar PlusIW6?](../../wiki/Preguntas-Frecuentes#puedo-tener-vac-o-game-ban-por-usar-plusiw6)
   - [¿Cómo puedo verificar mis archivos?](../../wiki/Preguntas-Frecuentes#cómo-puedo-verificar-mis-archivos)
