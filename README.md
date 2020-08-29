@@ -51,6 +51,7 @@
   - [Abro PlusIW6 y obtengo un error diciendo "Fatal Error: Your system memory (RAM) does not meet the minimum specification"](../../wiki/Soluci%C3%B3n-de-problemas#abro-plusiw6-y-obtengo-un-error-diciendo-fatal-error-your-system-memory-ram-does-not-meet-the-minimum-specification)
 - [Lista de Archivos](../../wiki/Lista-de-Archivos)
   - [PlusIW6](../../wiki/Lista-de-Archivos#plusiw6)
+  - [CDX](../../wiki/Lista-de-Archivos#cdx)
   - [CoD: G](../../wiki/Lista-de-Archivos#cod-g)
   - [DLC 1: Onslaught](../../wiki/Lista-de-Archivos#dlc-1-onslaught)
   - [DLC 2: Devastation](../../wiki/Lista-de-Archivos#dlc-2-devastation)
