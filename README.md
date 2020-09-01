@@ -10,6 +10,12 @@
 - **PlusIW6** se encuentra en **Alfa**, así que podrás encontrar muchos fallos. Además de que todo lo que leas aquí, puede quedar obsoleto muy rápido.
   - En dicho caso, te recomiendo visitar su **Discord** para estar atento a las últimas actualizaciones y todo. :P
 
+## :wave: Mi Retiro
+- Ya no haré más nada en mi Repositorio / Wiki, ni tampoco daré soporte alguno.
+- Si quieres continuar con lo que empecé, puedes hacerle un **Fork** a mi Repositorio y Wiki.
+  - Obviamente puedes traducir todo a otro idioma y continuar desde ahí.
+    - Tan solo no olvides de agregarme a los créditos.
+
 ## Tabla de Contenidos
 - [Inicio](../../wiki)
   - [Características](../../wiki#características)
